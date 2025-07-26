@@ -14,6 +14,10 @@ The author is currently cooperating with the development of [astral-sh/ty](https
 
 ## Installation
 
+### Prerequisites
+
+If you haven't already, you'll first have to **[install Erg](https://erg-lang.org/install/)**.
+
 ### pip
 
 ```bash
